@@ -15,7 +15,7 @@ This was my first project with HTML and CSS, so I decided to build something rel
 - CSS3
 ## Screenshots 
 Here is a look at the current homepage: <br>
-![Current Home Page Screenshot](./images/screenshot.png) <br>
+![Current Home Page Screenshot](./images/screenshot.png) <br><br>
 Here is a look at the original homepage: <br>
 ![Original Home Page Screenshot](./images/originalscreenshot.png)
 ## Room For Improvement 
