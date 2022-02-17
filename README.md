@@ -15,9 +15,9 @@ This was my first project with HTML and CSS, so I decided to build something rel
 - CSS3
 ## Screenshots 
 Here is a look at the current homepage: <br>
-![Current Home Page Screenshot](../images/screenshot.png) <br>
+![Current Home Page Screenshot](./images/screenshot.png) <br>
 Here is a look at the original homepage: <br>
-![Original Home Page Screenshot](../images/originalscreenshot.png)
+![Original Home Page Screenshot](./images/originalscreenshot.png)
 ## Room For Improvement 
 If I were to revisit the project in the future, I would: 
 - Add 3-5 more recipe pages
